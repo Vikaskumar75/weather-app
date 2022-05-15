@@ -1,0 +1,54 @@
+body {
+  color: #333333;
+  font-family: cursive;
+  min-height: 100vh;
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 0 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  color: #888888;
+  border-top: 1px solid #eeeeee;
+  margin-top: 16px;
+  padding: 16px 0px;
+}
+
+header {
+  margin-top: 16px;
+  margin-bottom: 48px;
+}
+
+h1 {
+  font-size: 64px;
+  margin-bottom: 16px;
+}
+
+h3 {
+  font-family: fantasy;
+}
+
+header a {
+  color: #888888;
+  margin-right: 16px;
+  text-decoration: none;
+}
+
+.portrait {
+  width: 200px;
+  border-radius: 4%;
+}
+
+.main-content {
+  flex-grow: 1;
+}
+
+.personal-info {
+  color: #888888;
+}
+
+.about-link {
+  color: burlywood;
+}
