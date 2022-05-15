@@ -16,7 +16,7 @@ This is a weather which uses a combination of NodeJs, Express and hadlebar to ma
 - [postman-request](https://www.npmjs.com/package/postman-request)
 
 ## Services Used:
-- [Mapbox](https://www.mapbox.com/) is used to gecoding and getting the coordinates of the location.
+- [Mapbox](https://www.mapbox.com/) is used for gecoding and getting the coordinates of the location.
 - [WeatherStack](https://weatherstack.com/) is used to get the weather for sepcific location.
 
 ## Things to Learn:
@@ -30,4 +30,4 @@ This is a weather which uses a combination of NodeJs, Express and hadlebar to ma
 
 ## Links:
 - [Weather App](https://github.com/Vikaskumar75)
-- [LinkedIN](https://www.linkedin.com/in/vikas-kumar-6564a7185/)
+- [LinkedIn](https://www.linkedin.com/in/vikas-kumar-6564a7185/)
