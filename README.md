@@ -1,4 +1,4 @@
-### Weather App
+# Weather App
 This is a weather which uses a combination of NodeJs, Express and hadlebar to make up a simple yet beautiful website to search for weather throughout the world.
 
 ## Tech Stack:
