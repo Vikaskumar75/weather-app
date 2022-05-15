@@ -36,6 +36,21 @@ header a {
   text-decoration: none;
 }
 
+input {
+  border: 1px solid #cccccc;
+  padding: 12px;
+  border-color: #888888;
+  border-radius: 4px;
+}
+
+button {
+  cursor: pointer;
+  background-color: #fdda0d;
+  padding: 12px;
+  border: 1px solid #888888;
+  border-radius: 4px;
+}
+
 .portrait {
   width: 200px;
   border-radius: 4%;
@@ -51,4 +66,16 @@ header a {
 
 .about-link {
   color: burlywood;
+}
+
+#message-error {
+  color: #da2c43;
+}
+
+#message-1 {
+  color: #797878;
+}
+
+#message-2 {
+  font-size: 22px;
 }
