@@ -29,5 +29,5 @@ This is a weather which uses a combination of NodeJs, Express and hadlebar to ma
 - Rendering server side webpages
 
 ## Links:
-- [Weather App](https://github.com/Vikaskumar75)
+- [Weather App](https://wshine.herokuapp.com/)
 - [LinkedIn](https://www.linkedin.com/in/vikas-kumar-6564a7185/)
